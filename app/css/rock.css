@@ -1,0 +1,12 @@
+.padTop{
+    padding-top:20px;
+}
+
+.resultText{
+    font-weight:bold;
+    font-size:20px;
+}
+
+.personchoice{
+    border: solid green 2px;
+}
