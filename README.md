@@ -10,6 +10,7 @@ On windows from the command line navigate to the folder with the package.json fi
 
 run: <b>npm install </b>
 
+Update the webpack.config.js file to create a folder to output the build files.  You will see a 'path:' section.  Update to your local (takes an absolute path)
 
 <b> npm build </b> will generate a dist/ folder.  
 
