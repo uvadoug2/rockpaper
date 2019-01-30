@@ -9,7 +9,7 @@ class ChoiceDisplay extends Component {
       <div>
         <img height="150px" src={this.props.data.url} alt={this.props.data.displayTitle} />
         <br/>
-        {this.props.data.displayTitle}
+        <font className="displayTitle">{this.props.data.displayTitle}</font>
       </div>
     
      )

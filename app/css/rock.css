@@ -10,3 +10,8 @@
 .personchoice{
     border: solid green 2px;
 }
+
+.displayTitle{
+    font-weight:bold;
+    font-size:14px;
+}
