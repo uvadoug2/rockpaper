@@ -9,7 +9,7 @@ module.exports = {
   // Output our app to the dist/ directory
   output: {
     filename: 'app.js',   
-    path: 'C:\\Users\\patri\\Documents\\code\\rockpaper\\rockpaper\\dist'
+    path: '\\Users\\patri\\Documents\\code\\rockpaper\\rockpaper\\dist'
   }, 
   devtool: 'source-map', 
   module: {
